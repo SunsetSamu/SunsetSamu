@@ -1,12 +1,3 @@
-
-```zsh
-> whoami
-```
-```csharp
-I'm SunsetSamu (only Sunset if you like)
-Venezuelan 🇻🇪 Digital Artist and hobbyist Music Producer
-Currently learning some coding skills on python
-```
 ```zsh
 > neofetch
 ```
@@ -32,6 +23,16 @@ Here are some ideas to get you started:
 -->
 
 [![Static Badge](https://img.shields.io/badge/Instagram-follow_me-pink)](https://www.instagram.com/SunsetSamu) &nbsp; [![Static Badge](https://img.shields.io/badge/Twitter-follow_me-blue)](https://x.com/sunsetsamu) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/SunsetSamu?logo=GitHub&style=flat)](https://github.com/SunsetSamu) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/SunsetSamu?logo=GitHub&style=flat)](https://github.com/SunsetSamu)
+
+
+```zsh
+> whoami
+```
+```csharp
+I'm SunsetSamu (only Sunset if you like)
+Venezuelan 🇻🇪 Digital Artist and hobbyist Music Producer
+Currently learning some coding skills on python
+```
 
 ```zsh
 > print(things)
