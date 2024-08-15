@@ -1,5 +1,6 @@
 ```zsh
 > neofetch
+
 ```
 
 <img align="left" src="https://i.imgur.com/suuBpZK.jpg" alt="logo.png" width="200"/>
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 
 ```zsh
 > whoami
+
 ```
 ```csharp
 I'm SunsetSamu (only Sunset if you like)
@@ -36,6 +38,7 @@ Currently learning some coding skills on python
 
 ```zsh
 > print(things)
+
 ```
 
 `- 🔭 I’m currently working on` [@Dopamine-Generator-Progression-Plugin](https://github.com/SunsetSamu/Dopamine-Generator-Progression-Plugin)
