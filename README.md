@@ -41,7 +41,7 @@ Currently learning some coding skills on python
  
 ```
 
-`- 🔭 I’m currently working on` [@Dopamine-Generator-Progression-Plugin](https://github.com/SunsetSamu/Dopamine-Generator-Progression-Plugin)
+`- 🔭 I’m currently working on` [@Dopamine-Generator-Progression-Plugin](https://github.com/SunsetSamu/Dopamine-Generator-Progression-Plugin) and [@sunsetsamu.github.io](https://github.com/SunsetSamu/sunsetsamu.github.io)
 
 `- 🌱 I’m currently learning Python :)`
 
