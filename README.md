@@ -1,6 +1,6 @@
 ```zsh
-> neofetch
  
+> neofetch
 ```
 
 <img align="left" src="https://i.imgur.com/suuBpZK.jpg" alt="logo.png" width="200"/>
@@ -14,7 +14,7 @@ sunsetsamu@github
  Terminal  :  Command Prompt
    Editor  :  VSCode, notepad++
     Theme  :  Default  
-Languages  :  Python
+Languages  :  Python, JS
 ```
 
 <!--
@@ -27,29 +27,29 @@ Here are some ideas to get you started:
 
 
 ```zsh
-> whoami
  
+ > whoami
 ```
 ```csharp
 I'm SunsetSamu (only Sunset if you like)
 Venezuelan 🇻🇪 Digital Artist and hobbyist Music Producer
-Currently learning some coding skills on python
+Currently learning some coding skills on python and HTML
 ```
 
 ```zsh
-> print(things)
  
+> print(things) 
 ```
 
 `- 🔭 I’m currently working on` [@Dopamine-Generator-Progression-Plugin](https://github.com/SunsetSamu/Dopamine-Generator-Progression-Plugin) `and` [@sunsetsamu.github.io](https://github.com/SunsetSamu/sunsetsamu.github.io)
 
-`- 🌱 I’m currently learning Python :)`
+`- 🌱 I’m currently learning Python, HTML and some JavaScript :)`
 
 `- 🤔 I’m looking for help with my plugin project`
 
 `- 💬 Ask me about digital art`
 
-`- 📫 How to reach me: I'm anywhere as SunsetSamu`
+`- 📫 How to reach me: I'm anywhere as SunsetSamu, you should see my website at ` [sunsetsamu.github.io].(sunsetsamu.github.io)
 
 `- 😄 Pronouns: he/him`
 <p align="Left">
